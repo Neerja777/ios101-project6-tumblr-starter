@@ -1,10 +1,10 @@
-# Project 6 - *Name of App Here*
+# Project 6 - *Tumblr Starter*
 
-Submitted by: **Your Name Here**
+Submitted by: **Neeraja Yasam**
 
-**Name of your app** is an app that ... [TODO] 
+**Tumblr** is an app that ... allows you to post various types of content like text, photos, videos, and GIFs, customizes your blog, follows other users, reblogs them, and likes their posts.
 
-Time spent: **X** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 
